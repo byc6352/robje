@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">牛牛抢指定金额</string>
+    <string name="Title">牛牛抢指定金额</string>
+    <string name="action_settings">帮助</string>
+    <string name="lei_sel_type"></string>
+    <string name="service_name">牛牛抢指定金额</string>
+    <string name="accessibility_description">请启动牛牛抢指定金额服务！</string>
+
+</resources>
